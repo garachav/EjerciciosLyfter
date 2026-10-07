@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="7NJieh2NWagv8ZJs7tmU">
+    <mxGraphModel dx="2241" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-3" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Inicio" vertex="1">
+          <mxGeometry height="30" width="80" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-5" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-2" parent="1" style="whiteSpace=wrap;html=1;dashed=0;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;color:#EE0000;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Numero&lt;/font&gt;&lt;/span&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:115%;&amp;lt;br/&amp;gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt; =&lt;br&gt;0&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-20" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-7" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-4" parent="1" style="whiteSpace=wrap;html=1;dashed=0;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;color:#EE0000;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Contador&lt;/font&gt;&lt;/span&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt; &lt;/font&gt;= 1&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-20" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-9" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-6" parent="1" style="whiteSpace=wrap;html=1;dashed=0;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;color:#EE0000;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Suma&lt;/font&gt;&lt;/span&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:115%;&amp;lt;br/&amp;gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt; &lt;/font&gt;=&lt;br&gt;0&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="-20" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-16" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-26" connectable="0" parent="1B4FN4f9R0EoAmiCvgnE-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Si" vertex="1">
+          <mxGeometry relative="1" x="-0.1657" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-28" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-29" connectable="0" parent="1B4FN4f9R0EoAmiCvgnE-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.1667" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;color:#EE0000;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 0, 0), rgb(237, 237, 237));&quot;&gt;Contador &lt;/font&gt;&lt;/span&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;&amp;lt;=&lt;br&gt;100&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="220" x="-70" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-17" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;“Ingrese&lt;br/&gt;su número”&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="-50" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-19" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-18" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-15" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Mostrar&lt;br/&gt;&lt;span style=&quot;color:#EE0000&quot;&gt;Contador&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="190" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-21" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-18" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Pedir&lt;span style=&quot;color:#EE0000&quot;&gt; Numero&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-23" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-20" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Suma&lt;br/&gt;= &lt;span style=&quot;color:#EE0000&quot;&gt;Numero + &lt;/span&gt;Suma&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-24" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-22" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;color:#EE0000;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;Contador &lt;/span&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;=&lt;span style=&quot;color:#EE0000&quot;&gt; Contador &lt;/span&gt;+1&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-31" edge="1" parent="1" source="1B4FN4f9R0EoAmiCvgnE-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1B4FN4f9R0EoAmiCvgnE-30" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-27" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Mostrar&lt;br/&gt;&lt;span style=&quot;color:#EE0000&quot;&gt;Suma&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="-300" y="405" as="geometry" />
+        </mxCell>
+        <mxCell id="1B4FN4f9R0EoAmiCvgnE-30" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Fin" vertex="1">
+          <mxGeometry height="30" width="80" x="-250" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

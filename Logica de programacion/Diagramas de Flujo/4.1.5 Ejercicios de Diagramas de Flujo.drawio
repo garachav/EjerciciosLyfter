@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="rTJCAaM7grhSrLa8b_5J">
+    <mxGraphModel dx="1564" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-3" edge="1" parent="1" source="0tZbh9NUz0ZAS82KeFjd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0tZbh9NUz0ZAS82KeFjd-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Inicio" vertex="1">
+          <mxGeometry height="30" width="80" x="334" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-5" edge="1" parent="1" source="0tZbh9NUz0ZAS82KeFjd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0tZbh9NUz0ZAS82KeFjd-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;dashed=0;align=left;" value="&lt;ul&gt;&lt;li&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Pedir&lt;br/&gt;&lt;span style=&quot;color:#EE0000&quot;&gt;Numero_de_usuario1&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;Pedir&lt;br/&gt;&lt;span style=&quot;color:#EE0000&quot;&gt;Numero_de_usuario2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;Pedir&lt;br/&gt;&lt;span style=&quot;color:#EE0000&quot;&gt;Numero_de_usuario3&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="115" width="230" x="260" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-7" edge="1" parent="1" source="0tZbh9NUz0ZAS82KeFjd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0tZbh9NUz0ZAS82KeFjd-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-8" connectable="0" parent="0tZbh9NUz0ZAS82KeFjd-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sí" vertex="1">
+          <mxGeometry relative="1" x="-0.2638" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-10" edge="1" parent="1" source="0tZbh9NUz0ZAS82KeFjd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0tZbh9NUz0ZAS82KeFjd-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-11" connectable="0" parent="0tZbh9NUz0ZAS82KeFjd-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.028" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;align=center;dashed=0;" value="&lt;div&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&lt;br/&gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;color:#EE0000;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;Numero_de_usuario1 &lt;/span&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;&lt;br/&gt;line-height:115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&lt;br/&gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;= 30&lt;span style=&quot;color:#EE0000&quot;&gt; &lt;/span&gt;o&lt;span style=&quot;color:#EE0000&quot;&gt; Numero_de_usuario2 &lt;/span&gt;=&lt;br/&gt;30&lt;span style=&quot;color:#EE0000&quot;&gt; &lt;/span&gt;o&lt;span style=&quot;color:#EE0000&quot;&gt; Numero_de_usuario3&lt;br/&gt;&lt;/span&gt;= 30&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="152.5" width="410" x="170" y="327.5" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-18" edge="1" parent="1" source="0tZbh9NUz0ZAS82KeFjd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0tZbh9NUz0ZAS82KeFjd-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Mostrar&lt;br&gt;“&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;Correcto&lt;/span&gt;”&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="540" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-12" edge="1" parent="1" source="0tZbh9NUz0ZAS82KeFjd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0tZbh9NUz0ZAS82KeFjd-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-13" connectable="0" parent="0tZbh9NUz0ZAS82KeFjd-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Sí" vertex="1">
+          <mxGeometry relative="1" x="-0.2125" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-15" edge="1" parent="1" source="0tZbh9NUz0ZAS82KeFjd-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0tZbh9NUz0ZAS82KeFjd-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-16" connectable="0" parent="0tZbh9NUz0ZAS82KeFjd-15" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.0435" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;dashed=0;" value="&lt;br&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;color:#EE0000;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:&amp;lt;br/&amp;gt;AR-SA&quot;&gt;Numero_de_usuario1 &lt;/span&gt;&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;&amp;lt;br/&amp;gt;line-height:115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;+&lt;span style=&quot;color: rgb(238, 0, 0);&quot;&gt; Numero_de_usuario2 &lt;/span&gt;+&lt;span style=&quot;color: rgb(238, 0, 0);&quot;&gt; Numero_de_usuario3&lt;br&gt;&lt;/span&gt;= 30&lt;/span&gt;" vertex="1">
+          <mxGeometry height="170" width="364" x="688" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-19" edge="1" parent="1" source="0tZbh9NUz0ZAS82KeFjd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0tZbh9NUz0ZAS82KeFjd-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size:12.0pt;line-height:&amp;lt;br/&amp;gt;115%;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:&amp;lt;br/&amp;gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:ES-CR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Mostrar&lt;br&gt;“Inc&lt;span lang=&quot;ES-CR&quot; style=&quot;font-size: 12pt; line-height: 115%;&quot;&gt;orrecto&lt;/span&gt;”&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="1070" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="0tZbh9NUz0ZAS82KeFjd-17" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" value="Fin" vertex="1">
+          <mxGeometry height="30" width="80" x="830" y="710" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
