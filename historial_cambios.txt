@@ -1,0 +1,20 @@
+7f8b00f - Initial commit
+Que cambio: Se creo el repositorio con un unico archivo, README.md
+Por que: Para tener un lugar en GitHub donde subir las tareas del curso de Lyfter
+
+72495b9 - Uploading first exercises
+Qué cambió: Se subieron las carpetas de los modulos previos
+Por qué: primer ejercicio de GIT 
+
+2bb4284 - Merge pull request 1 from garachav/ejercicios-listos
+Que cambio: GitHub unio la rama ejercicios-listos con main a traves del primer pull request.
+Por que: Para que los ejercicios subidos quedaran mergeados en la rama principal.
+
+889da40 - New folder name
+Qué cambió: Se renombró la carpeta "IT Essencials" a "IT Essentials".
+Por qué: El nombre original tenía un error de ortografía ("c" de más).
+
+e3cfb11 - Merge pull request #2 from garachav/past-exercises
+Que cambio: GitHub unio la rama past-exercises con main a traves del pull request #2.
+Por que: Era parte del ejercicio: subir los ejercicios en la rama past-exercises y mezclarla con la principal mediante un pull request.
+
