@@ -1,2 +1,2 @@
 # EjerciciosLyfter
-This trepository is created to upload the Lyfter homeworks 
+This repository is created to upload the Lyfter homeworks 
