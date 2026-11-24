@@ -9,8 +9,8 @@ def main():
             actions.add_student(student_data,student_list)
             
         elif user_option==2:
-            stud_delete_info=actions.student_delete_info()
-            actions.delete_student(stud_delete_info,student_list)
+            student_name, section =actions.student_delete_info()
+            actions.delete_student(student_name, section,student_list)
             
         elif user_option==3:
             actions.see_current_students(student_list)

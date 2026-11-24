@@ -19,16 +19,18 @@ class Bus():
         else:
             print("El bus está lleno")
 
-    def unload_passenger(self):
-        if len(self.passengers) > 0 :
-            self.passengers.pop()
+    def unload_passenger(self, person):
+        if person in self.passengers:
+            self.passengers.remove(person)
         else:
-            print("El bus está vacío")
+            print(f"{person.name} no va en el bus")
 
 
-bus_1 = Bus(2)
-bus_1.unload_passenger()          # bus vacío: debe mostrar el mensaje
-bus_1.load_passenger(Person("Ana"))
-bus_1.load_passenger(Person("Luis"))
-bus_1.unload_passenger()
-print(len(bus_1.passengers))
+ana = Person("Ana")
+luis = Person("Luis")
+bus = Bus(3)
+bus.load_passenger(ana)
+bus.load_passenger(luis)
+bus.unload_passenger(ana)
+print(len(bus.passengers))
+bus.unload_passenger(ana) 

@@ -19,14 +19,7 @@ def import_data_csv(file_path,students):
 def export_data_csv(file_path,students):
     student_list=[]
     for student in students:
-        student_dict={}
-        student_dict["name"] = student.name
-        student_dict["class"] = student.section
-        student_dict["spanish_grade"] = student.spanish_grade
-        student_dict["english_grade"] = student.english_grade
-        student_dict["social_studies_grade"] = student.social_studies_grade
-        student_dict["science_grade"] = student.science_grade
-        student_list.append(student_dict)
+        student_list.append(student.to_dict())
     with open(file_path,'w', encoding='utf-8', newline='')as file:
         headers = ["name", "class", "spanish_grade", "english_grade", "social_studies_grade", "science_grade"]
         writer=csv.DictWriter(file,fieldnames=headers)
