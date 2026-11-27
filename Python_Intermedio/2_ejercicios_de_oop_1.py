@@ -6,9 +6,13 @@
 
 class Rectangle:
     def __init__(self,width, height):
+        if width <= 0 or height <= 0 :
+            raise ValueError ("There is a negative value, it must be positive. ")
         self.width = width
         self.height = height
-        
+
+
+
     def get_area(self):
         area=self.width*self.height
         return area
@@ -17,31 +21,34 @@ class Rectangle:
         perimeter=self.width*2+self.height*2
         return perimeter
 
-def width():     
+
+
+def side():    
     while True:
         try:
-            width = int(input("Please, enter the width: "))
-            if width <= 0 :
+            side = int(input("Please, enter the side value: "))
+            if side <= 0 :
                 raise ValueError
             else:
                 break
         except ValueError:
             print("There is a negative value, it must be positive, please try again: ")
-    return width
+    return side
 
-def height():
-    while True:
-        try:
-            height = int(input("Please, enter the height: "))
-            if height <= 0 :
-                raise ValueError
-            else:
-                break
-        except ValueError:
-            print("There is a negative value, it must be positive, please try again: ")
-    return height
+try:
+    therectangle1 = Rectangle(side(),side())
+except ValueError as e:
+    print(e)
 
-therectangle1 = Rectangle(width(),height())
+try:
+    therectangle2 = Rectangle(4,-5)
+except ValueError as e:
+    print(e)
 
-print(f"The area of the Rectangle 1 is {therectangle1.get_area()}") #75000
-print(f"The perimeter of the Rectangle 1 is {therectangle1.get_perimeter()}")#1100
+
+print(f"The area of the Rectangle 1 is {therectangle1.get_area()}")
+print(f"The perimeter of the Rectangle 1 is {therectangle1.get_perimeter()}")
+
+
+print(f"The area of the Rectangle 2 is {therectangle2.get_area()}")
+print(f"The perimeter of the Rectangle 2 is {therectangle2.get_perimeter()}")
